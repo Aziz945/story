@@ -1,0 +1,9 @@
+Hey there im Aziz , As a Web Developer i want to create a music app so that every user listen to their favourite music instead of searching all around , and for me 
+in order to easily find and listen to my favourite songs as a music fan i would like to organise my best songs into playlists
+
+
+* you can search for your music vocally 
+* you can add a song to multiple playlists
+* a song can only be added once in a playlist
+* every playlist should have a unique name
+* as a user i want to sign up with phone number and email to add an extra layer of security 
